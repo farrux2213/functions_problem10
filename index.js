@@ -14,3 +14,4 @@ console.log(tubSonTopish(7)); // true
 console.log(tubSonTopish(14)); // false
 
 console.log("Array");
+console.log("Array");
