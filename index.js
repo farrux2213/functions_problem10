@@ -14,17 +14,18 @@
 // console.log(tubSonTopish(14)); // false
 
 //problem4
-function ortachaBaho() {
-  var talaba = {
-    ismi: "Farruxbek",
-    kursi: 1,
-    falsafa_fani: 4,
-    canculs_fani: 3,
-    IT_fani: 5,
-  };
+// function ortachaBaxo(Pr) {
+//   var talaba = {
+//     ismi: "Farruxbek",
+//     kursi: 1,
+//     falsafa_fani: 4,
+//     canculs_fani: 3,
+//     IT_fani: 5,
+//   };
 
-  var sum_baholar = talaba.falsafa_fani + talaba.canculs_fani + talaba.IT_fani;
-  var sum_fanlar_soni = 3;
-  ortachaBaho();
-  console.log(sum_baholar / sum_fanlar_soni);
-}
+//   var sum_baholar = talaba.falsafa_fani + talaba.canculs_fani + talaba.IT_fani;
+//   var sum_fanlar_soni = 3;
+//   ortachaBaxo(Pr);
+//   console.log(sum_baholar / sum_fanlar_soni);
+// }
+console.log("salom dunyo");
