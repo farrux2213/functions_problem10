@@ -31,3 +31,5 @@
 console.log("salom dunyo");
 console.log("salom dunyo");
 console.log("salom dunyo");
+console.log("salom dunyo");
+console.log("salom dunyo");
