@@ -28,5 +28,3 @@
 //   ortachaBaxo(Pr);
 //   console.log(sum_baholar / sum_fanlar_soni);
 // }
-
-console.log("3 ta ishlandi");
