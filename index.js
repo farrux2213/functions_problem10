@@ -104,4 +104,30 @@
 
 // var numbers = [1, 2, 3, 4, 5];
 // console.log(sumArray(numbers));
-questionnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn;
+// questionnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn;
+
+//problem8
+// var restaurant = {
+//   nomi: "Max Wey",
+//   menyusi: [
+//     { mahsulot: "Salat", narx: 12.5 },
+//     { mahsulot: "Amerikan Burger", narx: 18.0 },
+//     { mahsulot: "Sendvich mini", narx: 9.6 },
+//     { mahsulot: "Shourma max", narx: 7.9 },
+//   ],
+//   veterenarOdomuchun: true,
+// };
+
+// function getMenu(restaurant) {
+//   var menu = "Menyu:\n";
+//   for (var i = 0; i < restaurant.menyusi.length; i++) {
+//     menu +=
+//       restaurant.menyusi[i].mahsulot +
+//       " - $" +
+//       restaurant.menyusi[i].narx.toFixed(2) +
+//       "\n";
+//   }
+//   return menu;
+// }
+
+// console.log(getMenu(restaurant));
