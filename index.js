@@ -72,3 +72,23 @@
 // }
 
 // console.log(nameFunc(gap));
+
+//problem6
+// var book = {
+//   title: "Time is Money",
+//   muallif: "ALEX ALTMAN",
+//   pages: 82,
+// };
+
+// function getBookInfo(book) {
+//   return (
+//     book.muallif +
+//     " ning : " +
+//     book.title +
+//     "nomli kitobi , " +
+//     book.pages +
+//     " betdan iborat"
+//   );
+// }
+
+// console.log(getBookInfo(book));
