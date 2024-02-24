@@ -92,3 +92,16 @@
 // }
 
 // console.log(getBookInfo(book));
+
+//problem7
+// function sumArray(numbers) {
+//   var total = numbers.reduce(function (old, curr) {
+//     return old + curr;
+//   }, 0);
+
+//   return total;
+// }
+
+// var numbers = [1, 2, 3, 4, 5];
+// console.log(sumArray(numbers));
+questionnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn;
