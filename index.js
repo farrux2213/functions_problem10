@@ -1,3 +1,14 @@
+// //problem1
+// function countWords(gap) {
+//   var words = gap.split(" ");
+
+//   return words.length;
+// }
+
+// var gap = "Assalomu aleykum barchangizga";
+// console.log(countWords(gap));
+
+// // problem3
 // function tubSonTopish(son) {
 //   if (son <= 1) {
 //     return false;
@@ -13,7 +24,7 @@
 // console.log(tubSonTopish(7)); // true
 // console.log(tubSonTopish(14)); // false
 
-//problem4
+// // problem4;
 // function ortachaBaxo(Pr) {
 //   var talaba = {
 //     ismi: "Farruxbek",
