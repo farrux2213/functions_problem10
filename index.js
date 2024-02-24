@@ -133,19 +133,18 @@
 // console.log(getMenu(restaurant));
 
 //problem10
-// Bank hisobi ob'ektini yaratish
-var bankHisob = {
-  egasi: "Asqaraliyev Farrux",
-  balans: 3000,
-  tranzaksiyalar: [{ summa: -550 }, { summa: 580 }, { summa: -70 }],
-};
+// var bankHisob = {
+//   egasi: "Asqaraliyev Farrux",
+//   balans: 3000,
+//   tranzaksiyalar: [{ summa: -550 }, { summa: 580 }, { summa: -70 }],
+// };
 
-function hisobQoldiginiHisoblash(bankHisob) {
-  var joriyQoldiq = bankHisob.balans;
-  for (var i = 0; i < bankHisob.tranzaksiyalar.length; i++) {
-    joriyQoldiq += bankHisob.tranzaksiyalar[i].summa;
-  }
-  return joriyQoldiq;
-}
+// function hisobQoldiginiHisoblash(bankHisob) {
+//   var joriyQoldiq = bankHisob.balans;
+//   for (var i = 0; i < bankHisob.tranzaksiyalar.length; i++) {
+//     joriyQoldiq += bankHisob.tranzaksiyalar[i].summa;
+//   }
+//   return joriyQoldiq;
+// }
 
-console.log("Hozirgi qolgan summa:", hisobQoldiginiHisoblash(bankHisob));
+// console.log("Hozirgi qolgan summa:", hisobQoldiginiHisoblash(bankHisob));
