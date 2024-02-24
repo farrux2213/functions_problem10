@@ -58,3 +58,17 @@
 //   ortachaBaxo(Pr);
 //   console.log(sum_baholar / sum_fanlar_soni);
 // }
+
+//problem5
+// var gap = "assalomu alekum barchangizga";
+// var unlilar = ["a", "u", "e", "i", "o"];
+
+// function nameFunc(gap) {
+//   for (let i = 0; i < unlilar.length; i++) {
+//     gap = gap.replaceAll(unlilar[i], "o");
+//   }
+
+//   return gap;
+// }
+
+// console.log(nameFunc(gap));
