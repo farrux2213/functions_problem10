@@ -8,6 +8,25 @@
 // var gap = "Assalomu aleykum barchangizga";
 // console.log(countWords(gap));
 
+//problem2
+
+// var shoppingCart = [
+//   { nom: "Olma", narx: 3.5 },
+//   { nom: "Banan", narx: 5.2 },
+//   { nom: "Anor", narx: 9.0 },
+//   { nom: "Shaftoli", narx: 9.75 },
+// ];
+
+// function totalCost(cart) {
+//   var total = 0;
+//   for (var i = 0; i < cart.length; i++) {
+//     total += cart[i].narx;
+//   }
+//   return total;
+// }
+
+// console.log(totalCost(shoppingCart));
+
 // // problem3
 // function tubSonTopish(son) {
 //   if (son <= 1) {
